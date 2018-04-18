@@ -1,0 +1,60 @@
+#navbar-font{
+    font-family: 'Sanchez', serif;
+}
+#paragraph-post{
+    text-align: justify;
+    font-family: 'Work Sans', sans-serif;
+}
+.image{
+  min-height: 140%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+.text h1{
+    font-family: 'Sanchez', serif;
+}
+.text button{
+    font-family: 'Sanchez', serif;
+
+}
+.post{
+    width: 100%;
+    height: 1000px;
+    padding-right: 100px;
+    padding-left: 100px;
+    text-align: center;
+    font-family: 'Sanchez', serif;
+    padding-top: 100px;
+    color: white;
+}
+
+.post0{
+    width: 100%;
+    height: 2100px;
+    background-color: #000000;
+    text-align: center;
+    font-family: 'Sanchez', serif;
+    padding-top: 100px;
+    color: white;
+}
+
+.w3-quarter img{
+  margin-bottom: -6px;
+   cursor: pointer;
+ }
+.w3-quarter img:hover{
+  opacity: 0.6;
+  transition: 0.3s;
+}
